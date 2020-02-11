@@ -1,0 +1,39 @@
+body {
+  background: rgb(238,4,4);
+background: linear-gradient(270deg, rgba(238,4,4,1) 0%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 65%, rgba(115,210,40,1) 100%);
+  font-family: monospace;
+  font-size: 10;
+
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  text-decoration: underline;
+  font-size: 70;
+}
+h2{
+  text-align: center;
+  color: black;
+  text-decoration: underline;
+  font-size: 50;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.center_txt{
+  text-align: center;
+  font-size: 35;
+}
+.left_txt{
+  text-align: left;
+  font-size: 35;
+
+}
+.lis_txt_size{
+  font-size:25;
+}
